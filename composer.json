@@ -17,7 +17,7 @@
     "require": {
         "php": ">=8.0",
         "ext-mbstring": "*",
-        "illuminate/http": "v10.15.0"
+        "illuminate/http": "v10.19"
     },
     "minimum-stability": "dev"
 }
